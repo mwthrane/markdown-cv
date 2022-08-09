@@ -7,3 +7,4 @@ title: Michael West Thranes CV
 Infrastructure Specialist, Microsoft and Storage consultant, it advisor & Architect
 
 ## Currently
+Helping large orginasations run and develop core business
