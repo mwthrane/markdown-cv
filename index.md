@@ -15,6 +15,11 @@ Modern workspace, DevOps culture, virtualisation & containers, business needs, S
 ### Technical interest
 Software development & coding, containers and Kubernetes, infrastructure as code, automation.
 
+### Certifications and Courses
+* Microsoft Azure Administrator
+* IBM Virtualised Storage
+* Ansible Automation course
+
 ## Positions
 `2021-current`
 __Partner, komplex it__
