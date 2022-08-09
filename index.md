@@ -37,4 +37,4 @@ __Technical consultant, TDC Hosting__
 ### Online Resume
 Github: <https://mwthrane.github.io/>
 
-LinkedIn <https://mwthrane.linkedin.com/>
+LinkedIn <https://www.linkedin.com/in/mwthrane/>
