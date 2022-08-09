@@ -35,6 +35,6 @@ __it consultant, komplex it__
 __Technical consultant, TDC Hosting__
 
 #### Online Resume
-Github: https://mwthrane.github.io/
+Github: <https://mwthrane.github.io/>
 
-LinkedIn https://mwthrane.linkedin.com/
+LinkedIn <https://mwthrane.linkedin.com/>
