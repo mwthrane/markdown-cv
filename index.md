@@ -1,5 +1,5 @@
 ---
-layout: cv
+
 title: Michael West Thranes CV
 ---
 
