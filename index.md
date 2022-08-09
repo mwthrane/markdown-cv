@@ -33,3 +33,5 @@ __it consultant, komplex it__
 
 `2006-2008`
 __Technical consultant, TDC Hosting__
+
+###### Online Resume https://mwthrane.github.io/
