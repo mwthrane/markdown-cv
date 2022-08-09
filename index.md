@@ -7,7 +7,23 @@ title: Michael West Thranes CV
 Infrastructure Specialist, Microsoft and Storage consultant, it advisor & Architect
 
 ## Currently
-Helping large organisations run and develop it to support core business needs, creating growth through innovative models and the ability to see the technical and business side
+Helping large organisations run and develop it to support core business needs, creating growth through innovative models and the ability to see the technical and business aspect of the projects
 
 ### Specialised in
 Modern workspace, DevOps culture, virtualisation & containers, business needs, System & platform migration, infrastructure, Authentication system design, Project management, Business process mapping, Teamwork & collaboration
+
+### Technical interest
+Software development & coding, containers and Kubernetes, infrastructure as code, automation.
+
+## Positions
+`2021-2022`
+__Partner, komplex it__
+
+`2015-2022`
+__it specialist, komplex it__
+
+`2009-2015`
+__it consultant, komplex it__
+
+`2006-2008`
+__Technical consultant, TDC Hosting__
