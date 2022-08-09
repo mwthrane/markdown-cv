@@ -10,19 +10,20 @@ Infrastructure Specialist, Microsoft and Storage consultant, it advisor & Archit
 Helping large organisations run and develop it to support core business needs, creating growth through innovative models and the ability to see the technical and business aspect of the projects
 
 ### Specialised in
-Modern workspace, DevOps culture, virtualisation & containers, business needs, System & platform migration, infrastructure, Authentication system design, Project management, Business process mapping, Teamwork & collaboration
+Modern workspace, DevOps culture, virtualisation & containers, business needs, System & platform migration, infrastructure, Authentication system design, Project management, Business process mapping, Teamwork & collaboration, Solution Design
 
 ### Technical interest
 Software development & coding, containers and Kubernetes, infrastructure as code, automation.
 
 ### Certifications and Courses
 * Microsoft Azure Administrator
+* Microsoft Azure Administrator Course
 * IBM Virtualised Storage
 * Ansible Automation course
 
 ## Positions
 `2021-current`
-__Partner, komplex it__
+__co-owner, komplex it__
 
 `2015-current`
 __it specialist, komplex it__
