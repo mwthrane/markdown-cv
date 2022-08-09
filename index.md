@@ -16,10 +16,10 @@ Modern workspace, DevOps culture, virtualisation & containers, business needs, S
 Software development & coding, containers and Kubernetes, infrastructure as code, automation.
 
 ## Positions
-`2021-2022`
+`2021-current`
 __Partner, komplex it__
 
-`2015-2022`
+`2015-current`
 __it specialist, komplex it__
 
 `2009-2015`
