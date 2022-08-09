@@ -22,10 +22,10 @@ Software development & coding, containers and Kubernetes, infrastructure as code
 * Ansible Automation course
 
 ## Positions
-`2021-current`
+`2021-now`
 __co-owner, komplex it__
 
-`2015-current`
+`2015-now`
 __it specialist, komplex it__
 
 `2009-2015`
