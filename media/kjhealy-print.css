@@ -67,6 +67,7 @@ p {
 	margin-bottom: 0.2em;
 	margin-right: 0;
 	width: 70%;
+	font-size: medium;
 }
 
 code {
@@ -126,7 +127,7 @@ h1 {
 	left: 28%;
 }
 
-h1+p { 
+h1+p {
 	/*subtitle*/
 	font-style: italic;
 	font-size: 110%;
