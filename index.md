@@ -29,6 +29,7 @@ Software development & coding, CI/CD, containers & Kubernetes, infrastructure as
 ## Positions
 `2021-now`
 __partner, komplex it__
+Test test irum
 
 `2015-now`
 __it specialist, komplex it__
