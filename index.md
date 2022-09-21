@@ -13,7 +13,7 @@ Helping large organisations run and develop it to support core business needs, c
 DevOps, Modern workspace, Kubernetes, virtualisation & containers, System & platform migration, it infrastructure, Team Work & collaboration, Solution Design
 
 ### Skills
-Terraform, Git/Github/GitOps, Prometheus, basic Python, basic golang, AWS
+Terraform, Git/Github/GitOps, Prometheus, basic Python, basic golang, AWS, Markdown
 
 ### Technical interest
 Software development & coding, CI/CD, containers & Kubernetes, infrastructure as code, automation.
