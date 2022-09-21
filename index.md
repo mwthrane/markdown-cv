@@ -29,10 +29,13 @@ Software development & coding, CI/CD, containers & Kubernetes, infrastructure as
 ## Positions
 `2021-now`
 __partner, komplex it__
-Test test irum
+
+Responsible for partner relations in storage and Azure areas
 
 `2015-now`
 __it specialist, komplex it__
+
+Lead storage specialist
 
 `2009-2015`
 __it consultant, komplex it__
